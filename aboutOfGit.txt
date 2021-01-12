@@ -1,0 +1,20 @@
+Discribe to Git Inrotaction and git some command:
+
+Git Difination: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.  we are git easy to learn.
+
+Git some Commant concept:
+
+1 git --version
+2 git --help
+3 pwd 
+4 ls 
+5 ls -a 
+6 cd / cd ..
+7 mkdir
+8 rm -r fileName & rm -rf fileName
+9 git init
+10 git add fileName or git add .
+11 git commit -m"anyComment"
+12 git remote add origin github repotoriseLink
+13 git push -u origin main 
+ at last have a more tools.
